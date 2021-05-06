@@ -6,7 +6,7 @@ Currently, I'm spending my free time designing a responsive webpage to display v
 
 ## Check me out online! 🌎
 - You can view my work(so far) <a href="http://personal.kent.edu/~dhinz1/portfolio/">here</a>
-- Connect with me on <a href="linkedin.com/in/danielhinz/">Linkedin</a>
+- Connect with me on <a href="https://linkedin.com/in/danielhinz/">Linkedin</a>
 - Or follow me on <a href="https://www.instagram.com/d_hinz22/">Instagram</a> 
 
 
