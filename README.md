@@ -7,5 +7,4 @@ I'm a Computer Science Student at Kent State
 - 🤔 I’m looking for help learning new JavaScript frameworks
 - 💬 Ask me about the web applications I've designed
 - 📫 You can reach me at dhinz1@kent.edu
-- 😄 Pronouns: he/him
 - ⚡ Website: personal.kent.edu/~dhinz1/portfolio
