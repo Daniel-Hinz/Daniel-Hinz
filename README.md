@@ -1,8 +1,8 @@
 # Hello I'm Daniel Hinz 👋
 
-I'm a senior studying Computer Science who's looking to start a career in Software Development. I have been programming for 4 years now and have become very confident with languages such as C++, HTML, CSS, Java and JavaScript. In addition, I have become proficient in other languages such as PHP, Python and SQL. 
+I'm a senior studying Computer Science who's looking to start a career in Web Development. I have been programming for 5 years now and have become very confident with languages such as HTML, CSS, JavaScript, C++ and Java. In addition, I have become proficient in other languages such as PHP, Python and SQL. 
 
-Currently, I'm spending my free time designing a responsive webpage to display the various projects that I've worked on! 
+Currently, I'm working as a Web Development Intern at Arizent! 
 
 ## Check me out online! 🌎
 - You can view my work(so far) <a href="http://personal.kent.edu/~dhinz1/portfolio/">here</a>
