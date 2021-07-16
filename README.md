@@ -5,7 +5,7 @@ I'm a senior studying Computer Science who's looking to start a career in Web De
 Currently, I'm working as a Web Development Intern at Arizent! 
 
 ## Check me out online! 🌎
-- You can view my work(so far) <a href="http://personal.kent.edu/~dhinz1/portfolio/">here</a>
+- You can view my work(so far) <a href="http://www.hinzdaniel.com">here</a>
 - Connect with me on <a href="https://linkedin.com/in/danielhinz/">Linkedin</a>
 - Or follow me on <a href="https://www.instagram.com/d_hinz22/">Instagram</a> 
 
