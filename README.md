@@ -1,6 +1,6 @@
 # Hello I'm Daniel Hinz 👋
 
-I'm a senior studying Computer Science who's looking to start a career in Web Development. I have been programming for 5 years now and have become very confident with languages such as HTML, CSS, JavaScript, and Java. In addition, I have become proficient in other languages such as C++, PHP, Python and SQL. 
+I'm a senior studying Computer Science who's looking to start a career in Web Development. I have been programming for 5 years now and have become very confident with languages such as HTML, CSS, JavaScript, Java, and SQL. In addition, I have become very familiar with various libraries and frameworks such as Bootstrap, React, jQuery, Handlebars, and Less.
 
 Currently, I'm working as a Software Engineering Intern at Arizent! 
 
