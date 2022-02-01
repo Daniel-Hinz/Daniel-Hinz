@@ -1,6 +1,6 @@
 # Hello I'm Daniel Hinz 👋
 
-I'm a senior studying Computer Science who's looking to start a career in Software Development. I have been programming for 5 years now and have become very confident with languages such as HTML, CSS, JavaScript, TypeScript, Java, Python, and SQL. In addition, I have become familiar with various libraries and frameworks such as Flask, jQuery, Handlebars, Less, React, Angular, and Bootstrap.
+I'm a senior studying Computer Science at Kent State University. I have been programming for 5 years now and have become very confident with languages such as HTML, CSS, JavaScript, TypeScript, Java, Python, and SQL. In addition, I have become familiar with various libraries and frameworks such as Flask, jQuery, Handlebars, Less, React, Angular, and Bootstrap.
 
 ## Check me out online! 🌎
 - You can view my work <a href="http://www.hinzdaniel.com">here</a>
